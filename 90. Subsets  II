@@ -1,0 +1,30 @@
+impl Solution {
+    pub fn subsets_with_dup(mut nums: Vec<i32>) -> Vec<Vec<i32>> {
+        nums.sort();
+        let mut result = Vec::new();
+        let mut current = Vec::new();
+
+        fn backtrack(
+            start: usize,
+            nums: &Vec<i32>,
+            current: &mut Vec<i32>,
+            result: &mut Vec<Vec<i32>>,
+        ) {
+            result.push(current.clone());
+
+            for i in start..nums.len() {
+                // Skip duplicates at the same level
+                if i > start && nums[i] == nums[i - 1] {
+                    continue;
+                }
+
+                current.push(nums[i]);
+                backtrack(i + 1, nums, current, result);
+                current.pop();
+            }
+        }
+
+        backtrack(0, &nums, &mut current, &mut result);
+        result
+    }
+}
