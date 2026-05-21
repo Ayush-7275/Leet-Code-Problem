@@ -1,0 +1,16 @@
+def rob(nums: list[int]) -> int:
+    # prev1 is the max money up to the previous house
+    # prev2 is the max money up to two houses ago
+    prev1 = 0
+    prev2 = 0
+    
+    for money in nums:
+        # We either rob the current house (money + prev2) 
+        # or we skip it (keep prev1)
+        current_max = max(prev1, money + prev2)
+        
+        # Shift our variables forward for the next house
+        prev2 = prev1
+        prev1 = current_max
+        
+    return prev1
