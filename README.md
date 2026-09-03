@@ -13,6 +13,7 @@
 | [0394-decode-string](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0895-maximum-frequency-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -31,4 +32,16 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0394-decode-string) |
+## Hash Table
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0895-maximum-frequency-stack) |
+## Design
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0895-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
