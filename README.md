@@ -30,6 +30,7 @@
 | [0344-reverse-string](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
