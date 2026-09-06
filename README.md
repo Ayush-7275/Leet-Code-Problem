@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0088-merge-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0853-car-fleet) |
 ## Stack
@@ -22,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0088-merge-sorted-array) |
 | [0853-car-fleet](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0853-car-fleet) |
 ## String
 |  |
@@ -50,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/1768-merge-strings-alternately) |
