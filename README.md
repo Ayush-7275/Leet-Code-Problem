@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -25,6 +26,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0088-merge-sorted-array) |
 | [0853-car-fleet](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0853-car-fleet) |
 ## String
@@ -54,6 +56,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-7275/Leet-Code-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
